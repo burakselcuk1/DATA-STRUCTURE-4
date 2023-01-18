@@ -16,7 +16,7 @@ Algorithm to find any degree power of any number
 
 MIT License
 
-Copyright (c) 2022 Burak Selcuk
+Copyright (c) 2023 Burak Selcuk
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
